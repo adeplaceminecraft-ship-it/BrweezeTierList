@@ -116,7 +116,7 @@ const players = [
 
     {
         name: "CocoMineru",
-        points: 17,
+        points: 24,
         image: "https://mc-heads.net/avatar/CocoMineru/100",
 
         tiers: {
@@ -129,7 +129,7 @@ const players = [
             SMP: "T5",
             DiaSMP: "T5",
             Cart: "T5",
-            SpearMace: "T5",
+            SpearMace: "T2",
             KoalaPvP: "T5",
             Vanilla: "T5"
         }
@@ -138,7 +138,7 @@ const players = [
 
     {
         name: "_AbyssalMC_",
-        points: 27,
+        points: 37,
         image: "https://mc-heads.net/avatar/_AbyssalMC_/100",
 
         tiers: {
@@ -151,7 +151,7 @@ const players = [
             SMP: "T5",
             DiaSMP: "T5",
             Cart: "T5",
-            SpearMace: "T5",
+            SpearMace: "T1",
             KoalaPvP: "T5",
             Vanilla: "T5"
         }
