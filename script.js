@@ -138,12 +138,12 @@ const players = [
 
     {
         name: "_AbyssalMC_",
-        points: 0,
+        points: 10,
         image: "https://mc-heads.net/avatar/_AbyssalMC_/100",
 
         tiers: {
             Sword: "T5",
-            Axe: "T5",
+            Axe: "T1",
             Mace: "T5",
             UHC: "T5",
             Pot: "T5",
@@ -160,12 +160,12 @@ const players = [
 
     {
         name: "seby88213",
-        points: 0,
+        points: 7,
         image: "https://mc-heads.net/avatar/seby88213/100",
 
         tiers: {
             Sword: "T5",
-            Axe: "T5",
+            Axe: "T2",
             Mace: "T5",
             UHC: "T5",
             Pot: "T5",
