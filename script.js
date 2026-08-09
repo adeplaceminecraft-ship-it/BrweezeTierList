@@ -10,7 +10,7 @@ const gamemodes = [
 
     {
         name: "Axe",
-        icon: "./Axe.png"
+        icon: "./axe.png"
     },
 
     {
@@ -35,7 +35,7 @@ const gamemodes = [
 
     {
         name: "SMP",
-        icon: "./Smp.png"
+        icon: "./smp.png"
     },
 
     {
