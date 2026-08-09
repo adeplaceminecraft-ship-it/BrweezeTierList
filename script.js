@@ -5,7 +5,7 @@
 const gamemodes = [
     {
         name: "Sword",
-        icon: "images/sword.png"
+        icon: "sword.png"
     },
 
     {
