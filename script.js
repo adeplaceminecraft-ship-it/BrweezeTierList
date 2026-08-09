@@ -5,62 +5,62 @@
 const gamemodes = [
     {
         name: "Sword",
-        icon: "sword.png"
+        icon: "./sword.png"
     },
 
     {
         name: "Axe",
-        icon: "images/axe.png"
+        icon: "./axe.png"
     },
 
     {
         name: "Mace",
-        icon: "images/mace.png"
+        icon: "./mace.png"
     },
 
     {
         name: "UHC",
-        icon: "images/uhc.png"
+        icon: "./uhc.png"
     },
 
     {
         name: "Pot",
-        icon: "images/pot.png"
+        icon: "./pot.png"
     },
 
     {
         name: "NethPot",
-        icon: "images/nethpot.png"
+        icon: "./nethpot.png"
     },
 
     {
         name: "SMP",
-        icon: "images/smp.png"
+        icon: "./smp.png"
     },
 
     {
         name: "DiaSMP",
-        icon: "images/diasmp.png"
+        icon: "./diasmp.png"
     },
 
     {
         name: "Cart",
-        icon: "images/cart.png"
+        icon: "./cart.png"
     },
 
     {
         name: "SpearMace",
-        icon: "images/spear.png"
+        icon: "./spear.png"
     },
 
     {
         name: "KoalaPvP",
-        icon: "images/koala.png"
+        icon: "./koala.png"
     },
 
     {
         name: "Vanilla",
-        icon: "images/vanilla.png"
+        icon: "./vanilla.png"
     }
 ];
 
