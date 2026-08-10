@@ -116,7 +116,7 @@ const players = [
 
     {
         name: "CocoMineru",
-        points: 38,
+        points: 36,
         image: "https://mc-heads.net/avatar/CocoMineru/100",
 
         tiers: {
@@ -160,7 +160,7 @@ const players = [
 
     {
         name: "seby88213",
-        points: 14,
+        points: 24,
         image: "https://mc-heads.net/avatar/seby88213/100",
 
         tiers: {
@@ -171,7 +171,7 @@ const players = [
             Pot: "T5",
             NethPot: "T5",
             SMP: "T2",
-            DiaSMP: "T5",
+            DiaSMP: "T2",
             Cart: "T5",
             SpearMace: "T5",
             KoalaPvP: "T5",
