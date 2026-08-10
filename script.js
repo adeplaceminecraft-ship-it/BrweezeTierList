@@ -116,7 +116,7 @@ const players = [
 
     {
         name: "CocoMineru",
-        points: 34,
+        points: 41,
         image: "https://mc-heads.net/avatar/CocoMineru/100",
 
         tiers: {
@@ -125,7 +125,7 @@ const players = [
             Mace: "T2",
             UHC: "T2",
             Pot: "T5",
-            NethPot: "T5",
+            NethPot: "T2",
             SMP: "T5",
             DiaSMP: "T4",
             Cart: "T5",
@@ -138,7 +138,7 @@ const players = [
 
     {
         name: "_AbyssalMC_",
-        points: 70,
+        points: 80,
         image: "https://mc-heads.net/avatar/_AbyssalMC_/100",
 
         tiers: {
@@ -147,7 +147,7 @@ const players = [
             Mace: "T1",
             UHC: "T1",
             Pot: "T5",
-            NethPot: "T5",
+            NethPot: "T1",
             SMP: "T1",
             DiaSMP: "T3",
             Cart: "T5",
