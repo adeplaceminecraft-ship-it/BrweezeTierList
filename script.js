@@ -94,7 +94,7 @@ const players = [
 
     {
         name: "Femyth",
-        points: 29,
+        points: 26,
         image: "https://mc-heads.net/avatar/Femyth/100",
 
         tiers: {
@@ -105,7 +105,7 @@ const players = [
             Pot: "T1",
             NethPot: "T5",
             SMP: "T5",
-            DiaSMP: "T2",
+            DiaSMP: "T3",
             Cart: "T2",
             SpearMace: "T5",
             KoalaPvP: "T3",
@@ -138,7 +138,7 @@ const players = [
 
     {
         name: "_AbyssalMC_",
-        points: 97,
+        points: 99,
         image: "https://mc-heads.net/avatar/_AbyssalMC_/100",
 
         tiers: {
@@ -149,7 +149,7 @@ const players = [
             Pot: "T5",
             NethPot: "T1",
             SMP: "T1",
-            DiaSMP: "T3",
+            DiaSMP: "T2",
             Cart: "T1",
             SpearMace: "T2",
             KoalaPvP: "T1",
