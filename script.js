@@ -116,7 +116,7 @@ const players = [
 
     {
         name: "CocoMineru",
-        points: 36,
+        points: 34,
         image: "https://mc-heads.net/avatar/CocoMineru/100",
 
         tiers: {
@@ -127,7 +127,7 @@ const players = [
             Pot: "T5",
             NethPot: "T5",
             SMP: "T5",
-            DiaSMP: "T2",
+            DiaSMP: "T4",
             Cart: "T5",
             SpearMace: "T2",
             KoalaPvP: "T5",
@@ -138,7 +138,7 @@ const players = [
 
     {
         name: "_AbyssalMC_",
-        points: 67,
+        points: 70,
         image: "https://mc-heads.net/avatar/_AbyssalMC_/100",
 
         tiers: {
@@ -149,7 +149,7 @@ const players = [
             Pot: "T5",
             NethPot: "T5",
             SMP: "T1",
-            DiaSMP: "T5",
+            DiaSMP: "T3",
             Cart: "T5",
             SpearMace: "T1",
             KoalaPvP: "T1",
@@ -160,11 +160,11 @@ const players = [
 
     {
         name: "seby88213",
-        points: 24,
+        points: 27,
         image: "https://mc-heads.net/avatar/seby88213/100",
 
         tiers: {
-            Sword: "T5",
+            Sword: "T3",
             Axe: "T2",
             Mace: "T5",
             UHC: "T5",
