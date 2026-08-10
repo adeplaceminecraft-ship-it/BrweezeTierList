@@ -138,7 +138,7 @@ const players = [
 
     {
         name: "_AbyssalMC_",
-        points: 57,
+        points: 67,
         image: "https://mc-heads.net/avatar/_AbyssalMC_/100",
 
         tiers: {
@@ -148,7 +148,7 @@ const players = [
             UHC: "T1",
             Pot: "T5",
             NethPot: "T5",
-            SMP: "T5",
+            SMP: "T1",
             DiaSMP: "T5",
             Cart: "T5",
             SpearMace: "T1",
@@ -160,7 +160,7 @@ const players = [
 
     {
         name: "seby88213",
-        points: 7,
+        points: 14,
         image: "https://mc-heads.net/avatar/seby88213/100",
 
         tiers: {
@@ -170,7 +170,7 @@ const players = [
             UHC: "T5",
             Pot: "T5",
             NethPot: "T5",
-            SMP: "T5",
+            SMP: "T2",
             DiaSMP: "T5",
             Cart: "T5",
             SpearMace: "T5",
