@@ -94,7 +94,7 @@ const players = [
 
     {
         name: "Femyth",
-        points: 14,
+        points: 24,
         image: "https://mc-heads.net/avatar/Femyth/100",
 
         tiers: {
@@ -102,7 +102,7 @@ const players = [
             Axe: "T5",
             Mace: "T5",
             UHC: "T5",
-            Pot: "T5",
+            Pot: "T1",
             NethPot: "T5",
             SMP: "T5",
             DiaSMP: "T2",
@@ -160,7 +160,7 @@ const players = [
 
     {
         name: "seby88213",
-        points: 30,
+        points: 37,
         image: "https://mc-heads.net/avatar/seby88213/100",
 
         tiers: {
@@ -168,7 +168,7 @@ const players = [
             Axe: "T2",
             Mace: "T5",
             UHC: "T5",
-            Pot: "T5",
+            Pot: "T2",
             NethPot: "T5",
             SMP: "T2",
             DiaSMP: "T1",
