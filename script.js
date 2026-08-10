@@ -94,7 +94,7 @@ const players = [
 
     {
         name: "Femyth",
-        points: 10,
+        points: 17,
         image: "https://mc-heads.net/avatar/Femyth/100",
 
         tiers: {
@@ -106,7 +106,7 @@ const players = [
             NethPot: "T5",
             SMP: "T5",
             DiaSMP: "T1",
-            Cart: "T5",
+            Cart: "T2",
             SpearMace: "T5",
             KoalaPvP: "T5",
             Vanilla: "T5"
@@ -116,7 +116,7 @@ const players = [
 
     {
         name: "CocoMineru",
-        points: 41,
+        points: 48,
         image: "https://mc-heads.net/avatar/CocoMineru/100",
 
         tiers: {
@@ -131,14 +131,14 @@ const players = [
             Cart: "T5",
             SpearMace: "T2",
             KoalaPvP: "T5",
-            Vanilla: "T5"
+            Vanilla: "T2"
         }
     },
 
 
     {
         name: "_AbyssalMC_",
-        points: 80,
+        points: 100,
         image: "https://mc-heads.net/avatar/_AbyssalMC_/100",
 
         tiers: {
@@ -150,10 +150,10 @@ const players = [
             NethPot: "T1",
             SMP: "T1",
             DiaSMP: "T3",
-            Cart: "T5",
+            Cart: "T1",
             SpearMace: "T1",
             KoalaPvP: "T1",
-            Vanilla: "T5"
+            Vanilla: "T1"
         }
     },
 
