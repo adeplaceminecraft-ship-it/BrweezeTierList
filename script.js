@@ -94,7 +94,7 @@ const players = [
 
     {
         name: "Femyth",
-        points: 24,
+        points: 29,
         image: "https://mc-heads.net/avatar/Femyth/100",
 
         tiers: {
@@ -108,7 +108,7 @@ const players = [
             DiaSMP: "T2",
             Cart: "T2",
             SpearMace: "T5",
-            KoalaPvP: "T5",
+            KoalaPvP: "T3",
             Vanilla: "T5"
         }
     },
