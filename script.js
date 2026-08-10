@@ -72,7 +72,7 @@ const players = [
 
     {
         name: "Kappa8081",
-        points: 0,
+        points: 7,
         image: "https://mc-heads.net/avatar/Kappa8081/100",
 
         tiers: {
@@ -86,7 +86,7 @@ const players = [
             DiaSMP: "T5",
             Cart: "T5",
             SpearMace: "T5",
-            KoalaPvP: "T5",
+            KoalaPvP: "T2",
             Vanilla: "T5"
         }
     },
@@ -138,7 +138,7 @@ const players = [
 
     {
         name: "_AbyssalMC_",
-        points: 37,
+        points: 47,
         image: "https://mc-heads.net/avatar/_AbyssalMC_/100",
 
         tiers: {
@@ -152,7 +152,7 @@ const players = [
             DiaSMP: "T5",
             Cart: "T5",
             SpearMace: "T1",
-            KoalaPvP: "T5",
+            KoalaPvP: "T1",
             Vanilla: "T5"
         }
     },
